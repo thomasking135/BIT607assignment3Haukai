@@ -1,6 +1,6 @@
-<FilesMatch "staff.html">
+
 AuthName "Member Only"
 AuthType Basic
 AuthUserFile /BIT607assignment3Haukai.io/staff.html/.htpassword
 require valid-user
-</FilesMatch> 
+
