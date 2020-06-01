@@ -1,4 +1,5 @@
-AuthUserFile home/tom/staff.html/.htpassword
+AuthUserFile BIT607assignment3Haukai.io/staff.html/.htaccess
+home/tom/staff.html/.htpassword
 AuthType Basic
 AuthName "My restricted Area"
 Require valid-user
