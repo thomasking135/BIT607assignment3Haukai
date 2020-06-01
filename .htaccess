@@ -1,4 +1,4 @@
-AuthUserFile BIT607assignment3Haukai.io/staff.html/.htaccess
+AuthUserFile BIT607assignment3Haukai.io/staff.html/.htpassword
 home/tom/staff.html/.htpassword
 AuthType Basic
 AuthName "My restricted Area"
