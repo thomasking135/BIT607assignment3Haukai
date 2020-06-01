@@ -1,4 +1,4 @@
 AuthName "Secure directory"
-AuthUserFile BIT607assignment3Haukai.io/staff.html.htpasswd
+AuthUserFile haukai-restaurant-nz/staff.html.htpasswd
 AuthType Basic
 require valid-user
