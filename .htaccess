@@ -1,4 +1,0 @@
-AuthName "Secure directory"
-AuthUserFile apps/haukai-restaurant-nz/staff.html.htpasswd
-AuthType Basic
-require valid-user
