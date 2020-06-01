@@ -1,6 +1,4 @@
-
-AuthName "Member Only"
+AuthName "Secure directory"
+AuthUserFile BIT607assignment3Haukai.io/staff.html.htpasswd
 AuthType Basic
-AuthUserFile BIT607assignment3Haukai.io/staff.html/.htpassword
 require valid-user
-
