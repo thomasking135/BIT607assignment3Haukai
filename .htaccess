@@ -1,5 +1,4 @@
 AuthUserFile /haukai-restaurant-nz.herokuapp.com/staff.html/.htpassword
-home/tom/staff.html/.htpassword
 AuthType Basic
 AuthName "Staff Page"
 Require valid-user
